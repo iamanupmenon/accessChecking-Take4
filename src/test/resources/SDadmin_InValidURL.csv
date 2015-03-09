@@ -1,0 +1,12 @@
+dashboard/srijan/oc-libraries?org_id=28322&gids_group%5B0%5D=112&tab=organisation&subtab=lib
+dashboard/srijan/manage-usecase?org_id=28322&gids_group%5B0%5D=112&tab=organisation&subtab=uc
+dashboard/srijan/manage-users?org_id=28322&gids_group%5B0%5D=112&tab=organisation&subtab=people
+question-definition-list?org_id=28322&gids_group%5B0%5D=112&tab=questions&subtab=qd
+add/question-configuration?org_id=28322&gids_group%5B0%5D=112&tab=questions&subtab=cqd
+dashboard/srijan/manage-departments-groups?org_id=28322&gids_group%5B0%5D=112&tab=diagnostics&subtab=dept
+organisation/vendors/all?org_id=28322&gids_group%5B%5D=112
+dashboard/srijan/usecase-list?org_id=28322&gids_group%5B%5D=112
+dashboard/srijan/manage-usecase/inactive?org_id=28322&gids_group%5B%5D=112&tab=organisation&subtab=uc
+dashboard/srijan/manage-users/nonreg?org_id=28322&gids_group%5B%5D=112&tab=organisation&subtab=people
+question-definition-list/unused?org_id=28322&gids_group%5B%5D=112&tab=questions&subtab=qd
+dashboard/srijan/manage-departments-groups/inactive?org_id=28322&gids_group%5B%5D=112&tab=diagnostics&subtab=dept
